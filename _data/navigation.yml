@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Funding"
+    url: /funding/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+ 
+  - title: "CV"
+    url: /cv/
+
+  - title: "News"
+    url: /news/  
+
+  - title: "Covid19"
+    url: /covid19/ 
+    
+  # - title: "Guide"
+  #   url: /markdown/
