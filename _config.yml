@@ -9,12 +9,12 @@ description: "Hello"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Shahrukh Raza
   pic: 1
-  position: Lead Designer
+  position: Junior Architect 
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/Eye_Shahrukh
     - title: facebook
       url: #
     - title: stack-overflow
